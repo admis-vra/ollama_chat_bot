@@ -73,7 +73,12 @@ Example:
 python
 Copy code
 SYSTEM_PROMPT = "You are a funny assistant who replies with jokes and emojis!"
+
 🛠️ Author
+
 [Your Name or GitHub Username]
+
 📧 Contact: [optional email]
+
 🌐 GitHub: https://github.com/yourusername
+
