@@ -37,7 +37,7 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
 1. **Clone the repository**
    ```bash
    git clone https://github.com/admis_vra/ollama_chat_bot.git
-   cd ollama-chat-assistant
+   cd ollama_chat_bot
    
 ## Install dependencies
    ```
