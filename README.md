@@ -52,11 +52,6 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
 # Chat with your assistant
 
 
-💬 Ollama Chat Assistant
-
-Type 'exit' anytime to stop.
-
-
 You: What is AI?
 
 Assistant: Artificial Intelligence is...
