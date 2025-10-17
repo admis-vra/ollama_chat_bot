@@ -46,10 +46,10 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
 
 
 ## Run the script 
-
-
-- python main.py
-Chat with your assistant
+   ``` 
+   python ollama_chat.py
+   ```
+# Chat with your assistant
 
 vbnet
 Copy code
@@ -59,25 +59,24 @@ Type 'exit' anytime to stop.
 You: What is AI?
 Assistant: Artificial Intelligence is...
 🧠 Example Output
-vbnet
-Copy code
+
 💬 Ollama Chat Assistant
+
 Type 'exit' anytime to stop.
 
 You: Who is Elon Musk?
 Assistant: Elon Musk is a technology entrepreneur and CEO of Tesla, SpaceX...
-🧩 Customization
+
+# 🧩 Customization
 You can edit SYSTEM_PROMPT in main.py to change your assistant’s personality.
 
-Example:
+- Example:
 
-python
-Copy code
 SYSTEM_PROMPT = "You are a funny assistant who replies with jokes and emojis!"
 
-🛠️ Author
+# 🛠️ Author
 
-[Your Name or GitHub Username]
+ @admis-vra
 
 📧 Contact: [optional email]
 
