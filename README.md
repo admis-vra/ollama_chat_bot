@@ -51,13 +51,16 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
    ```
 # Chat with your assistant
 
-vbnet
-Copy code
+
 💬 Ollama Chat Assistant
+
 Type 'exit' anytime to stop.
 
+
 You: What is AI?
+
 Assistant: Artificial Intelligence is...
+
 🧠 Example Output
 
 💬 Ollama Chat Assistant
