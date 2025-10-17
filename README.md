@@ -78,7 +78,5 @@ SYSTEM_PROMPT = "You are a funny assistant who replies with jokes and emojis!"
 
  @admis-vra
 
-📧 Contact: [optional email]
-
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/admis-vra
 
