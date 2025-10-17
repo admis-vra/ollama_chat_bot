@@ -38,16 +38,14 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
    ```bash
    git clone https://github.com/admis_vra/ollama_chat_bot.git
    cd ollama-chat-assistant
-Install dependencies
+   
+## Install dependencies
 
-bash
-Copy code
-pip install -r requirements.txt
+- pip install -r requirements.txt
 Run the script
 
-bash
-Copy code
-python main.py
+
+- python main.py
 Chat with your assistant
 
 vbnet
