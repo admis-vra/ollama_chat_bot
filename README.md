@@ -40,8 +40,9 @@ It uses the **llama3.2** model (or any Ollama-supported model) to respond to you
    cd ollama-chat-assistant
    
 ## Install dependencies
-   ```bash
+   ```
    pip install -r requirements.txt
+   ```
 
 
 ## Run the script 
