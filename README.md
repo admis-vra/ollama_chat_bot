@@ -65,7 +65,7 @@ Assistant: Artificial Intelligence is...
 
 💬 Ollama Chat Assistant
 
-Type 'exit' anytime to stop.
+- Type 'exit' anytime to stop.
 
 You: Who is Elon Musk?
 Assistant: Elon Musk is a technology entrepreneur and CEO of Tesla, SpaceX...
@@ -75,11 +75,11 @@ You can edit SYSTEM_PROMPT in main.py to change your assistant’s personality.
 
 - Example:
 
-SYSTEM_PROMPT = "You are a funny assistant who replies with jokes and emojis!"
+   SYSTEM_PROMPT = "You are a funny assistant who replies with jokes and emojis!"
 
 # 🛠️ Author
 
- @admis-vra
+    @admis-vra
 
-🌐 GitHub: https://github.com/admis-vra
+   🌐 GitHub: https://github.com/admis-vra
 
